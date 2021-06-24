@@ -6,12 +6,13 @@
   <tr>
     <th>Id</th>
     <th>Name</th>
-    <th>Complete</th>
-    <th>in the process</th>
-    <th>Postponed</th>
+    <th>Staus</th>
   </tr>
   <tr>
     <td>1</td>
+    <td>Программирование на Python | Bioinformatics Institute</td>
+    <td>Complete</td>
+  </tr>
   </table>
 <h3> Achivements</h3> 
 
