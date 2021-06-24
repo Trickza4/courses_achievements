@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>1</td>
-    <td>Программирование на Python</td>
+    <td>Python Programming</td>
     <td> Bioinformatics Institute</td>
     <td>Complete</td>
     <td> https://stepik.org/cert/964981 </td>
