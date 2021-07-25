@@ -7,7 +7,7 @@
     <th>Id</th>
     <th>Name</th>
     <th>Organization conducting the course</th>
-    <th>Staus</th>
+    <th>Status</th>
     <th>Certificate</th>
   </tr>
   <tr>
